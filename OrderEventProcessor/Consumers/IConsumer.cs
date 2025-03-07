@@ -1,4 +1,3 @@
-using RabbitMQ.Client;
 using OrderEventProcessor.Data;
 
 namespace OrderEventProcessor.Consumers
